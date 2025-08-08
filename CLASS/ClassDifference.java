@@ -1,5 +1,6 @@
 package CLASS;
 
+//
 /**
  * The main class that runs the program.
  * I've renamed it to 'ClassDifference' to follow the standard Java naming convention (PascalCase).
